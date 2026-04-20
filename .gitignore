@@ -8,6 +8,9 @@ $RECYCLE.BIN/
 .vscode/
 *.code-workspace
 
+# Allow images
+!images/
+
 # Mac
 .DS_Store
 ._*
