@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/linah_birthday_love.html" }
+  ]
+}
